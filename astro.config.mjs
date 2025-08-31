@@ -21,8 +21,8 @@ export default defineConfig({
 			description: '这是一个存放XDUCraft各种技术文档的网站',
 			social: [
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/ayasapphire/Docs-XDMC' },
-				{ icon: 'bilibili', label: 'Bilibili', href: 'https://space.bilibili.com/500642753'},
-				{ icon: 'QQ', label: 'QQ', href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=GF4Ej90Dz5BJpIEGFs4DjkHIouVGD0hR&authKey=hEzyZX6lIOTEk4jwmvZDSQZCD2MV24xiIexe%2BaI9yM9Meo%2Bu0P9TvBukIDFKH5hT&noverify=0&group_code=684941112'}
+				{ icon: 'youtube', label: 'Bilibili', href: 'https://space.bilibili.com/500642753'},
+				{ icon: 'telegram', label: 'QQ', href: 'http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=GF4Ej90Dz5BJpIEGFs4DjkHIouVGD0hR&authKey=hEzyZX6lIOTEk4jwmvZDSQZCD2MV24xiIexe%2BaI9yM9Meo%2Bu0P9TvBukIDFKH5hT&noverify=0&group_code=684941112'}
 			],
 			editLink: {
 				baseUrl: 'https://github.com/ayasapphire/Docs-XDMC/edit/main/'
